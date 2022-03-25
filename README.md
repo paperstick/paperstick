@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paperstick
-- 👀 I’m currently working in iTechArt as a Software Enginner!
+- 👀 I am currently working for iTechArt as a Software Enginner!
 - 🌱 Have experience with React, Vue, Express.js and NestJS
 
 <!---
