@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paperstick
-- 👀 I’m interested in Full-stack development!
-- 🌱 I’m currently learning Javascript, React and Node.js
+- 👀 I’m currently working in iTechArt as a Software Enginner!
+- 🌱 Have experience with React, Vue, Express.js and NestJS
 
 <!---
 paperstick/paperstick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
